@@ -9,38 +9,42 @@
 ### Bug-reports 
 
 ##### PC games:
-- [AgeOfMystery](https://trello.com/b/D8nDn8MK/age-of-mystery)
-- [BattleOftheWildWest](https://trello.com/b/gaiaa2iW/butter-of-the-willd)
+- [AgeOfMystery](https://trello.com/b/sYpDRv0b/age-of-mystery)
+- [BattleOftheWildWest](https://trello.com/b/1JJi5bcZ/battle-of-the-wild-west)
+- [3D Shake](https://trello.com/b/07yp9Ujr/3d-snake)
 
 #### Mobile games: 
-- [LittleShooter](https://trello.com/b/GkqMdhxS/little-shooter)
-- [LittleShooter old](https://trello.com/b/CDWegczY/little-shooter-old-version)
-- [Cards Master](https://trello.com/b/llFW2JxV/cards-master)
-- [Terraforma](https://trello.com/b/MydhIHSV/terraforma)
-- [World Race](https://trello.com/b/knkPU1hS/world-race)
+- [LittleShooter](https://trello.com/b/wZH1T1CG/littleshooter)
+- [Terraforma](https://trello.com/b/JQ6HEIoM/terraforma)
+- [World Race](https://trello.com/b/XU1Jiv7q/world-race)
+- [Zombotron](https://trello.com/b/aH3coovS/zombotron)
 
 #### Web-sites:
 
 
-- [Leaky](https://trello.com/b/aQ0o6Bfb/leakyru)
-- [Smart Funding](https://trello.com/b/U6d2RZ8e/smart-funding)
-- [Tallin](https://trello.com/b/GYP2fZYS/tallinncold-timecom)
-- [Testmonge](https://trello.com/b/hNxhvQve/testmonge)
-- [House Forever](https://trello.com/b/crwZxOvb/%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA-%D0%BD%D0%B0%D0%B2%D1%96%D0%BA%D0%B8)
+- [Smart Funding](https://trello.com/b/MEyVkLst/smart-funding)
+- [Tallin](https://trello.com/b/dgo339mR/tallinncold-timecom)
+- [Royal House](https://trello.com/b/JOUypdnm/royal-house)
+- [9Courses](https://trello.com/b/uEMysQ7S/9courses)
 
 ### Check-lists
 #### PC Games:
-- 
-- 
+- [Age of mistery](https://docs.google.com/spreadsheets/d/1bYHyOm3-VhX6yF33uA0j6QcB5mB-lGZdlf25F5yndTo/edit?usp=sharing)
+- [3D Shake](https://docs.google.com/spreadsheets/d/1F1w_NRaXNRe26Qje4HWD9yx3qdxN9F_8lfSVTxC7gAE/edit?usp=sharing)
 
 
 #### Mobile games:
--
-- 
-- 
-- 
+- [little shooter](https://docs.google.com/spreadsheets/d/1yyfgbxn0eLZ48u_1OAtWIKJi6EIXR_Mk3vrwcYGIsgc/edit?usp=sharing)
+- [World Race](https://docs.google.com/spreadsheets/d/1udJiLID0lQ981JAXKNAJQaYtAiRVxUH3lA83i67RKxQ/edit?usp=sharing)
+- [Zombotron](https://docs.google.com/spreadsheets/d/1nSBC0ns7iShRp-u3N1OVTGfbgMXKdHw7YtvCKFTmqrg/edit?usp=sharing)
+  
+  
 #### Web-sites:
-- 
+- [Makes scents](https://docs.google.com/spreadsheets/d/1S3hgpJXf8hI2Vc-Xte7qbrakKJTJuwLMyJGIGivsp5o/edit?usp=sharing)
+- [Smart Funding](https://docs.google.com/spreadsheets/d/1tv-4qwWyLBezNOYJea4CLiM3OVfYPTLJtF3dJHy_j3k/edit?usp=sharing)
+- [9Courses](https://docs.google.com/spreadsheets/d/1X5cAqYMcb_7nydDJCQp3ZQdW-CUXL9wKaiO8w2AzNiw/edit?usp=sharing)
+- [Revent agency ](https://docs.google.com/spreadsheets/d/1bmGZVxo5P_LaAy9vFsYW6etFIX_lk-4BO6wKzIXixQs/edit?usp=sharing)
+- [Royal House](https://docs.google.com/spreadsheets/d/15UEbgsrBS_wTD_zr933aOZLUeADoHjoKSJwtgErkj6k/edit?usp=sharing)
   
 ### Test cases 
 
